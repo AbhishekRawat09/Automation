@@ -18,4 +18,8 @@ public class TestClass {
 		System.out.println("test-2");
 	}
 
+	@Test
+	public void test4() {
+		System.out.println("test-4");
+	}
 }
